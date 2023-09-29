@@ -1,4 +1,4 @@
-package com.amit.qrbarcodescanner;
+package com.ayush.qrbarcodescanner;
 
 import com.journeyapps.barcodescanner.CaptureActivity;
 
